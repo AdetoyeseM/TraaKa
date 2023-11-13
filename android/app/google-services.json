@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67901006086",
+    "project_id": "traaka-33fd0",
+    "storage_bucket": "traaka-33fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67901006086:android:c7d84f51793b82ba26be87",
+        "android_client_info": {
+          "package_name": "com.eden.traacka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUm-Vlo9pUYd4L0S5OWgwpfmQ0wtoAHU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
