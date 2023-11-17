@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:traacka/views/authentications/sign_in.dart';
-import 'package:traacka/views/components/colors/colors.dart';
+import 'package:traacka/views/widgets/components/colors/colors.dart';
 import 'package:traacka/views/widgets/app_icons.dart';
 
 class SplashScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:traacka/view_models/auth/googleauth_request.dart';
-import 'package:traacka/views/components/colors/colors.dart';
+import 'package:traacka/views/widgets/components/colors/colors.dart';
 import 'package:traacka/views/widgets/app_icons.dart';
 
 class LoginScreen extends StatelessWidget {

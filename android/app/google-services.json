@@ -12,7 +12,20 @@
           "package_name": "com.eden.traacka"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "67901006086-56nkqapdmgmj97j1vlar07g02v1q4pnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eden.traacka",
+            "certificate_hash": "84470715fd67cd5de409f9af5013069dfefe96a9"
+          }
+        },
+        {
+          "client_id": "67901006086-5cgbknbu8s72hslltj21jheatetk8ne2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAUm-Vlo9pUYd4L0S5OWgwpfmQ0wtoAHU8"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67901006086-5cgbknbu8s72hslltj21jheatetk8ne2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "67901006086-ctnppusgu5sp0p9jfli5s6rk43eomcha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eden.traacka"
+              }
+            }
+          ]
         }
       }
     }
