@@ -1,0 +1,19 @@
+Traaka App
+Traaka is a mobile application designed to streamline order tracking using Flutter. This app utilizes various technologies, including RxDart, GetIt, Google Sign-In, and Ably Flutter, to provide a seamless and efficient order tracking experience.
+
+Features
+RxDart Integration: RxDart is used to implement reactive programming, enabling smooth and responsive user interactions. This ensures a dynamic and efficient user experience.
+
+GetIt for Dependency Injection: GetIt is employed for dependency injection, promoting modularity and maintainability in the codebase. This allows for better organization and scalability of the application.
+
+Google Sign-In: Traaka leverages Google Sign-In for a secure and convenient authentication process. Users can sign in with their Google accounts, enhancing the overall user authentication experience.
+
+Ably Flutter for Order Tracking: The app integrates Ably Flutter to facilitate real-time order tracking. Ably provides a reliable and scalable platform for implementing real-time features, ensuring accurate and up-to-date order information for users.
+
+Getting Started
+To run Traaka on your local machine, follow these steps:
+
+Clone the repository: git clone [https://github.com/yourusername/Traaka.git](https://github.com/AdetoyeseM/TraaKa)
+Navigate to the project directory: cd Traaka
+Install dependencies: flutter pub get
+Run the app: flutter run
